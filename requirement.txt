@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-groq
+pandas
+
+numpy
+streamlit
+python-dotenv
+fpdf2
